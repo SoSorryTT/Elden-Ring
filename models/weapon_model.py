@@ -4,7 +4,7 @@ from sqlalchemy.orm import declarative_base
 
 Base = declarative_base()
 
-class EldenringModel(Base):
+class WeaponModel(Base):
     __tablename__ = "weapon"
 
     id = Column(Integer, primary_key=True, nullable=False)
