@@ -12,7 +12,7 @@ class WeaponDao:
         return self.__session.query(WeaponModel).filter(WeaponModel.id==id)[0]
 
     def get_weapon_by_type(self, weapon_type):
-        return self.__session.query(WeaponModel).filter(WeaponModel.weapon_type==weapon_type).all()
+        return self.__session.query(WeaponModel).filter(WeaponModel.weapon_type.contains(weapon_type)).all()
 
     def get_weapon_by_name(self, weapon_name):
         return self.__session.query(WeaponModel).filter(WeaponModel.weapon_name==weapon_name).all()
