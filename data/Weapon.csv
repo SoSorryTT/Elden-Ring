@@ -1,0 +1,51 @@
+﻿ID,WeaponType,WeaponName,Str,Dex,Int,Fai,Arc,WeaponWeight,WeaponSkill
+1,Straight Sword,Short Sword,8,10,0,0,0,3,Kick
+2,Straight Sword,Long Sword,10,10,0,0,0,3.5,Square Off
+3,Straight Sword,Broad Sword,10,10,0,0,0,4,Square Off
+4,Straight Sword,Weathered Straight Sword,7,10,0,0,0,3,Square Off
+5,Straight Sword,Lordsworn Straight Sword,10,10,0,0,0,3.5,Square Off
+6,Straight Sword,Noble Slender Sword,8,11,0,0,0,3.5,Square Off
+7,Straight Sword,Cane Sword,8,11,0,0,0,2.5,Square Off
+8,Straight Sword,Warhawk Talon,10,16,0,0,0,3,Spinning Slash
+9,Straight Sword,Lazuli Glintstone Sword,8,9,13,0,0,3.5,Glintstone Pebble
+10,Straight Sword,Carian Knight Sword,10,10,18,0,0,4,Carian Grandeur
+11,Straight Sword,Crystal Sword,13,10,15,0,0,4.5,Spinning Slash
+12,Straight Sword,Rotten Crystal Sword,13,10,15,0,0,4.5,Spinning Slash
+13,Straight Sword,Miquellan Knight Sword,11,11,0,16,0,3.5,Sacred Blade
+14,Straight Sword,Golden Epitaph,12,10,0,14,0,3.5,Last Rites
+15,Straight Sword,Sword od Night and Flame,12,12,24,24,0,4,Night and Flame Stance
+16,Katanas,Uchigatana,11,15,0,0,0,5.5,Unsheathe
+17,Katanas,Nagakiba,18,22,0,0,0,7,Piercing Fang
+18,Katanas,Serpentbone Blade,11,22,0,0,0,6,Double Slash
+19,Katanas,Meteoric Ore Blade,15,14,18,0,0,7.5,Gravitas
+20,Katanas,Moonveil,12,18,23,0,0,6.5,Transient Moonlight
+21,Katanas,Rivers of blood,12,18,0,0,20,6.5,Corpse Piler
+22,Katanas,Dragonscale Blade,12,20,0,0,5.5,,Ice Lightning Sword
+23,Katanas,Hand of Malenia,16,48,0,0,0,7,Waterfowl Dance
+24,Colossal Weapons,Duelist Greataxe,30,10,0,0,0,20,Endure
+25,Colossal Weapons,Rotten Greataxe,30,10,0,0,0,20,Endure
+26,Colossal Weapons,Golem Halberd,36,14,0,0,0,21.5,Charge Forth
+27,Colossal Weapons,Giant Crusher,60,0,0,0,0,26.5,Strike
+28,Colossal Weapons,Prelate Inferno Crozier,45,8,0,0,0,23.5,Prelate Charge
+29,Colossal Weapons,Great Club,35,0,0,0,0,17,Golden Land
+30,Colossal Weapons,Troll Hammer,28,8,0,10,0,16,Troll Roar
+31,Colossal Weapons,Dragon Greatclaw,30,14,0,0,0,16,Endure
+32,Colossal Weapons,Watchdog Staff,34,10,0,0,0,19,Sorcery of the Crozier
+33,Colossal Weapons,Staff of the Avatar,34,8,0,24,0,20,Erdtree Slam
+34,Colossal Weapons,Rotten Staff,34,8,0,0,0,18,Erdtree Slam
+35,Colossal Weapons,Envoy Greathorn,28,12,0,24,0,19.5,Great Oracular Bubble
+36,Colossal Weapons,Ghiza Wheel,28,18,0,0,0,19,Spinning Wheel
+37,Colossal Weapons,Fallingstar Beast Jaw,34,12,20,0,0,21.5,Gravity Bolt
+38,Colossal Weapons,Axe of Godfrey,42,14,0,0,0,18,Regal Roar
+39,Sacred Seals,Erdtree Seal,0,0,0,40,0,0,None
+40,Sacred Seals,Golden Order Seal,0,0,17,17,0,0,Boosts Golden Order
+41,Sacred Seals,Giant Seal,4,0,0,14,0,1.5,Boosts Fire Giant and Monk
+42,Sacred Seals,Godslayer Seal,4,0,0,27,0,1.5,Boosts Godskin Apostle
+43,Sacred Seals,Frenzied Flame Seal,0,0,0,0,0,0,Boosts Frenzied Flame
+44,Sacred Seals,Dragon Communion Seal,0,0,0,10,10,0,Boosts Dragon Communion
+45,Glintstone Staff,Azur Glintstone Staff,10,0,52,0,0,4,Sorceries and Incatation
+46,Glintstone Staff,Staff of Loss,6,12,14,0,0,2.5,Boosts Invisibility
+47,Glintstone Staff,Meteorite Staff,6,0,18,0,0,4.5,Gravity Sorceries
+48,Glintstone Staff,Lusat Glintstone Staff,10,0,52,0,0,4,Boosts all Sorceries
+49,Glintstone Staff,Staff of Guilty,8,0,0,12,0,4.5,Thorn
+50,Glintstone Staff,Prince of Death Staff,6,0,18,18,0,3,Death Sorceries
