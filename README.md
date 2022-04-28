@@ -60,3 +60,4 @@ Example of the data in this project.
     sqlite> .quit
 
 ## Project Diagram
+![Eldenring_Diagram](https://user-images.githubusercontent.com/78094917/165695538-dc30ed6c-90db-4213-a8e8-005a8127aa75.jpg)
