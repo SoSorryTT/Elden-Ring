@@ -18,7 +18,7 @@ Example of the data in this project.
 | Name | Version |
 |------|---------|
 | Python | 3.8 or higher |
-| SQLite3 cmd | 3.33.0 or higher |
+| SQLite3 CLI | 3.33.0 or higher |
 
 ### Install Package
 1. Clone this project repository to your local computer.
@@ -57,3 +57,6 @@ Example of the data in this project.
     sqlite> .mode csv
     sqlite> .import data/character.csv character
     sqlite> .import data/weapon.csv weapon
+    sqlite> .quit
+
+## Project Diagram

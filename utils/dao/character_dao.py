@@ -14,8 +14,8 @@ class CharacterDao:
     def get_character_by_characterID(self, chracter_id):
         return self.__session.query(CharacterModel).filter(CharacterModel.CharacterID==chracter_id).all()
 
-    # def get_character_by_weaponID(self, owner_id):
-    #     return self.__session.query(CharacterModel).filter(CharacterModel.owner_id==owner_id).all()
+    def get_character_by_weaponID(self, owner_id):
+        return self.__session.query(CharacterModel).filter(CharacterModel.owner_id==owner_id).all()
 
     def add_new_character(self, character: CharacterModel):
         self.__session.add(character)

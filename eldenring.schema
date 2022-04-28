@@ -7,7 +7,9 @@ CREATE TABLE IF NOT EXISTS character (
     Int INTEGER DEFAULT 0,
     Fai INTEGER DEFAULT 0,
     Arc INTEGER DEFAULT 0,
-    Weight FLOAT DEFAULT 0
+    Weight FLOAT DEFAULT 0,
+    owner_id INTEGER,
+    FOREIGN KEY (owner_id) REFERENCES weapon(id)
 );
 
 CREATE TABLE IF NOT EXISTS weapon (

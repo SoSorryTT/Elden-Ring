@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.db
+*.db
 .idea
 .DS_Store
 tempCodeRunnerFile.py

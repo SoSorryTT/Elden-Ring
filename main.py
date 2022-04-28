@@ -5,7 +5,7 @@ from models.weapon_model import WeaponModel
 elden_ring = Eldenring()
 
 # print(elden_ring.character().get_all_character())
-# print(elden_ring.character().get_character_info(5))
+print(elden_ring.character().get_character_info(5))
 # print(elden_ring.character().get_character_by_characterID("Will Smith"))
 
 # print(elden_ring.weapon().get_all_weapon())
