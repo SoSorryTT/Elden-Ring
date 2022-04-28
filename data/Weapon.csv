@@ -1,5 +1,4 @@
-﻿ID,WeaponType,WeaponName,Str,Dex,Int,Fai,Arc,WeaponWeight,WeaponSkill
-1,Straight Sword,Short Sword,8,10,0,0,0,3,Kick
+﻿1,Straight Sword,Short Sword,8,10,0,0,0,3,Kick
 2,Straight Sword,Long Sword,10,10,0,0,0,3.5,Square Off
 3,Straight Sword,Broad Sword,10,10,0,0,0,4,Square Off
 4,Straight Sword,Weathered Straight Sword,7,10,0,0,0,3,Square Off
