@@ -8,15 +8,15 @@ class WeaponModel(Base):
     __tablename__ = "weapon"
 
     id = Column(Integer, primary_key=True, nullable=False)
-    weapon_type = Column(Text, nullable=False)
-    weapon_name = Column(Text, nullable=False)
-    str = Column(Integer, nullable=False)
-    dex = Column(Integer, nullable=False)
-    int = Column(Integer, nullable=False)
-    fai = Column(Integer, nullable=False)
-    arc = Column(Integer, nullable=False)
-    weapon_weight = Column(FLOAT, nullable=False)
-    weapon_skill = Column(Text, nullable=False)
+    WeaponType = Column(Text, nullable=False)
+    WeaponName = Column(Text, nullable=False)
+    Str = Column(Integer, nullable=False)
+    Dex = Column(Integer, nullable=False)
+    Int = Column(Integer, nullable=False)
+    Fai = Column(Integer, nullable=False)
+    Arc = Column(Integer, nullable=False)
+    WeaponWeight = Column(FLOAT, nullable=False)
+    WeaponSkill = Column(Text, nullable=False)
 
     def __repr__(self) -> str:
-        return f"<Weapon: (id={self.id},weapon_type={self.weapon_type},weapon_name={self.weapon_name},str={self.str},dex={self.dex},int={self.int},fai={self.fai},arc={self.arc},weapon_weight={self.weapon_weight},weapon_skill={self.weapon_skill})>"
+        return f"<Weapon: (id={self.id},weapon_type={self.WeaponType},weapon_name={self.WeaponName},str={self.Str},dex={self.Dex},int={self.Int},fai={self.Fai},arc={self.Arc},weapon_weight={self.WeaponWeight},weapon_skill={self.WeaponSkill})>"

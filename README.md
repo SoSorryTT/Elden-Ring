@@ -38,7 +38,7 @@ Example of the data in this project.
 
 4. Activate the venv.
     ```cmd
-    sourcee venv/bin/activate
+    source venv/bin/activate
     ```
 
 5. Install all required package.
