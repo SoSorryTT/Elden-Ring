@@ -63,4 +63,4 @@ Example of the data in this project.
 ![Eldenring_Diagram](https://user-images.githubusercontent.com/78094917/165695538-dc30ed6c-90db-4213-a8e8-005a8127aa75.jpg)
 
 ## Project Web API
-![Eldenring_API](https://github.com/SoSorryTT/Elden-Ring.wiki.git)
+[Eldenring_API](https://github.com/SoSorryTT/Elden-Ring/wiki/Project-Web-API)
